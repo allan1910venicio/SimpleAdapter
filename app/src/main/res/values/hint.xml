@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_nome">Informe seu nome:</string>
+    <string name="hint_email">Informe seu e-mail:</string>
+    <string name="hint_Userid">Informe seu ID:</string>
+    <string name="hint_desc">Informe sua Descrição: </string>
+    <string name="hint_btn_post">Button</string>
+    <string name="hint_titulo">Informe o Titulo:</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_nome">輸入您的姓名。:</string>
+    <string name="hint_email">Informe seu e-mail:</string>
+    <string name="hint_Userid">Informe seu ID:</string>
+    <string name="hint_desc">txtBody</string>
+    <string name="hint_btn_post">Button</string>
+    <string name="hint_titulo">Informe o Titulo:</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nome comercial do aplicativo</string>
+    <string name="post" />
+    <item name="txtItemUserId" type="id" />
+    <item name="txtItemTitle" type="id" />
+    <item name="txtItemBody" type="id" />
+    <item name="btnPost" type="id" />
+</resources>
